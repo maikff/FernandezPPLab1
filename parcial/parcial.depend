@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1589590432 source:c:\users\owsla\desktop\1a-1g utn 2020\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"veterinaria.h"
+
+1589590403 c:\users\owsla\desktop\1a-1g utn 2020\parcial\veterinaria.h
+	<stdio.h>
+	<stdlib.h>
+
+1589590403 source:c:\users\owsla\desktop\1a-1g utn 2020\parcial\veterinaria.c
+	"dataWarhouse.h"
+	"veterinaria.h"
+	<string.h>
+
+1589587138 c:\users\owsla\desktop\1a-1g utn 2020\parcial\datawarhouse.h
+
